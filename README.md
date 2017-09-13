@@ -8,8 +8,6 @@ Google Places API demo app
 * NIS   : 4775/1494.070
 * Sekolah : SMK Telkom Malang
 
-## Screenshots
-
 ## Screenshot Aplikasi
 <p align="center">
   <img src="https://github.com/rehanarroihan/Lokasion/blob/master/screenshots/1.jpeg" width="350"/>
@@ -23,4 +21,3 @@ Google Places API demo app
   <img src="https://github.com/rehanarroihan/Lokasion/blob/master/screenshots/5.jpeg" width="350"/>
   <img src="https://github.com/rehanarroihan/Lokasion/blob/master/screenshots/6.jpeg" width="350"/>
 </p>
-
